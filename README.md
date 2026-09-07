@@ -1,6 +1,6 @@
 # Ingrid Leiria
 
-Economist. Chief of Staff at a US B2B consulting firm. PhD candidate in Economics at Korea University Sejong,
+Economist. Chief of Staff at a US B2B consulting firm. PhD candidate in Economics at Korea University Sejong Campus,
 working on Brazilian higher education with national administrative microdata.
 
 I work on the same question in two places: what people and organisations do when incentives and institutions change.
@@ -10,6 +10,8 @@ the board materials and the commercial models behind a decision. Everything belo
 Brazilian, based in Sejong, South Korea. Portuguese, English, Spanish, and enough Korean to get by.
 
 ## What I build here
+### [ingridleiria.github.io](https://github.com/ingridleiria/ingridleiria.github.io)
+My CV and full record, published at [ingridleiria.github.io](https://ingridleiria.github.io).
 
 ### [breaktalk-skills](https://github.com/ingridleiria/breaktalk-skills)
 More than 100 open working instructions for Chief of Staff work and empirical research, MIT licensed, in five tracks: Chief of
@@ -45,8 +47,6 @@ boundary a layer of its own rather than a paragraph in a prompt, and
 [how this was built](https://github.com/ingridleiria/vizz-whatsapp-ai/blob/main/VIBE_CODING_STORY.md) is the honest
 account of putting a system into a regulated setting without an engineering team.
 
-### [ingridleiria.github.io](https://github.com/ingridleiria/ingridleiria.github.io)
-My CV and full record, published at [ingridleiria.github.io](https://ingridleiria.github.io).
 
 ## Research
 
