@@ -8,6 +8,10 @@ In research that means panel data, difference in differences and survival models
 the board materials and the commercial models behind a decision. Everything below is built in that overlap.
 
 Brazilian, based in Sejong, South Korea. Portuguese, English, Spanish, and enough Korean to get by.
+## Writing
+
+[BreakTalk](https://breaktalk.substack.com), on Chief of Staff practice, AI adoption, and the economics underneath
+both.
 
 ## What I build here
 ### [ingridleiria.github.io](https://github.com/ingridleiria/ingridleiria.github.io)
@@ -55,10 +59,6 @@ from Brazil's federal and regional economics councils between 2016 and 2018, for
 economic uncertainty and on illegal markets. Publications and the full record are on
 [my page](https://ingridleiria.github.io) and on [ORCID](https://orcid.org/0000-0002-6215-860X).
 
-## Writing
-
-[BreakTalk](https://breaktalk.substack.com), on Chief of Staff practice, AI adoption, and the economics underneath
-both.
 
 ## Elsewhere
 
