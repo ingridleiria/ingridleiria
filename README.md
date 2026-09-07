@@ -66,4 +66,4 @@ both.
 [BreakTalk](https://breaktalk.substack.com) ·
 [ORCID](https://orcid.org/0000-0002-6215-860X) ·
 [ingridleiria.github.io](https://ingridleiria.github.io) ·
-[ingridleiria@gmail.com](mailto:ingridleiria@gmail.com)
+[ingrid@leiriaconsulting.com](mailto:ingrid@leiriaconsulting.com)
