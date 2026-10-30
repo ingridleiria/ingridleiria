@@ -16,9 +16,9 @@ both.
 
 ## What I build here
 ### [Missori](https://breaktalk.io/missori) · [product overview](https://github.com/ingridleiria/missori-showcase)
-An AI partner that turns free time into local experiences, connecting people and businesses, starting with a street
-pilot in Sejong, South Korea. It plans a day through real places nearby, checks every message to a shop by translating
-it back before the person approves it, and talks in a voice cloned from my own. Built alone so far: a public web app,
+An AI partner connecting people and businesses: a good day out for people through real places nearby, and regulars
+for local shops through a QR check-in and stamps, starting with a street pilot in Sejong, South Korea. Every message to
+a shop is translated, translated back and approved before it is sent, and it talks in a voice cloned from my own. Built alone so far: a public web app,
 an iPhone app in testing, six interface languages and a directory of 15,816 Sejong businesses from public records.
 
 ### [ingridleiria.github.io](https://github.com/ingridleiria/ingridleiria.github.io)
