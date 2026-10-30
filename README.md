@@ -1,6 +1,7 @@
 # Ingrid Leiria
 
-Economist. Chief of Staff at a US B2B consulting firm. PhD candidate in Economics at Korea University Sejong Campus,
+Economist. Chief of Staff at a US B2B consulting firm. Founder of Missori by BreakTalk. PhD candidate in Economics at
+Korea University Sejong Campus,
 working on Brazilian higher education with national administrative microdata.
 
 I work on the same question in two places: what people and organisations do when incentives and institutions change.
@@ -14,6 +15,12 @@ Brazilian, based in Sejong, South Korea. Portuguese, English, Spanish, and enoug
 both.
 
 ## What I build here
+### [Missori](https://breaktalk.io/missori) · [product overview](https://github.com/ingridleiria/missori-showcase)
+An AI partner that turns free time into local experiences, connecting people and businesses, starting with a street
+pilot in Sejong, South Korea. It plans a day through real places nearby, checks every message to a shop by translating
+it back before the person approves it, and talks in a voice cloned from my own. Built alone so far: a public web app,
+an iPhone app in testing, six interface languages and a directory of 15,816 Sejong businesses from public records.
+
 ### [ingridleiria.github.io](https://github.com/ingridleiria/ingridleiria.github.io)
 My CV and full record, published at [ingridleiria.github.io](https://ingridleiria.github.io).
 
